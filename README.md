@@ -1,5 +1,7 @@
 Astrobiologist and organic geochemist working on the Mars 2020 rover mission.
+
 Using Python and machine learning to search for signs of life and environment in Mars rocks.
+
 Increasingly interested in AI for science, particularly to help solve wicked problems related to climate and renewable energy.
 
 <!--

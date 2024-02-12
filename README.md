@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an astrobiologist and organic geochemist currently working on the Mars 2020 rover mission and growing ever more interested in the potential of artificial intelligence to help solve "wicked" problems relevant to human well-being, especially in climate and the renewable energy transition.
+
 <!--
 **kenwilliford/kenwilliford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@
 
 🌍 interested in AI for science, particularly to help solve wicked problems related to climate and renewable energy
 
-<kbd>![DOW2_20xt_oil1_crop](https://github.com/kenwilliford/kenwilliford/assets/132492136/54b776d5-359c-45ab-98b4-49cafc9d408c)</kbd>
+<kbd>![DOW2_20xt_oil1_crop_2](https://github.com/kenwilliford/kenwilliford/assets/132492136/02ec00d6-465a-4d55-8f1d-99e10537d08b)</kbd>
 Billion-year-old fossil bacteria and bubbles of their trapped metabolic byproducts in an arctic rock. [full image here](https://gigapan.com/gigapans/52663df35ba394d3cb7110452f8ebce0)
 <!--
 **kenwilliford/kenwilliford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

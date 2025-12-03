@@ -1,8 +1,4 @@
-👽 astrobiologist and organic geochemist working on the Mars 2020 rover mission
-
-🐍 using Python and machine learning to search for signs of life and environment in Mars rocks
-
-🌍 interested in AI for science, particularly to help solve wicked problems related to climate and renewable energy
+Earth and space scientist searching for signs of life and environments in old rocks on Earth and Mars.
 
 <kbd>![DOW2_20xt_oil1_crop_2](https://github.com/kenwilliford/kenwilliford/assets/132492136/02ec00d6-465a-4d55-8f1d-99e10537d08b)</kbd>
 *Billion-year-old fossil bacteria and bubbles of their trapped metabolic byproducts in an arctic rock.* [full gigapixel image here](https://gigapan.com/gigapans/52663df35ba394d3cb7110452f8ebce0)
